@@ -1,4 +1,4 @@
-# Hi, I'm [Jahid](https://www.linkedin.com/in/mjahidhasand/) 🤖 <img src="https://komarev.com/ghpvc/?username=mjahidhasand&label=Profile%20views&color=0e75b6&style=flat" alt="olusiekwin" /> <br/><sub>Full Stack Developer (MERN Stack)</sub>
+# Hi, I'm [Jahid](https://www.linkedin.com/in/mjahidhasand/) 🤖 <img src="https://komarev.com/ghpvc/?username=mjahidhasand&label=Profile%20views&color=0e75b6&style=flat" alt="olusiekwin" /> <br/><sub><sup>Full Stack Developer (MERN Stack)</sup></sub>
 
 **🧬 About me**
     
