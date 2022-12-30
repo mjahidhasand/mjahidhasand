@@ -25,9 +25,9 @@
 **🔭 I'm currently working on**
 <sup>**✨ Cloning websites**</sup>
 - Airbnb
-  > ⁘ Cloning the most popular travel activity website using Next.js 🎉
+  > 🪂 Cloning the most popular travel activity website using Next.js 🎉
 - Amazon
-  > ⁘ Cloning the most popular ecommerce website using Next.js 🎉
+  > 🛒 Cloning the most popular ecommerce website using Next.js 🎉
     
 <sub><sup>Currently, I'm completing these projects so I can prove myself to others.</sub></sup><br/>
 ---
