@@ -4,7 +4,7 @@
     
 - 💻 I'm a self-taught **Full Stack Developer (MERN Stack)** from Bangladesh.
 - 📝 In my daily routine, I work with JavaScript, TypeScript (ReactJS/NextJS) & MongoDB to develop Web Experiences.
-- ⚡ Self thaught, and Nonstop learner. I'm always improving my skills
+- ⚡ Self learner. I'm always improving my skills
 
 <sub><sup>Whatever, there are some other things beside computer in my life. Exploring 🍙 foods, 🛤️ travelling, 🎦 watching movies, 🚵 cycling .etc.</sub></sup><br/>
 ---
